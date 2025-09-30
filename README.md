@@ -16,19 +16,29 @@ A real-time chat application built with React, Express, and Socket.IO that enabl
 
 ## Project Structure
 react_chat_app/
-├── client/ # React frontend
-├── server/ # Express + Socket.IO backend
+├── client/ 
+├── server/
+
+---
+## Built With
+
+- React
+- Express
+- Socket.IO
+- Tailwind CSS
+
+---
 
 ## How to Use
 1. Start the server:
-cd server
-npm install
-node index.js
+- cd server
+- npm install
+- node index.js
 
 2. Start the client:
-cd client
-npm install
-npm run dev
+- cd client
+- npm install
+- npm run dev
 
 3. Chat:
 - Open the client in your browser.
